@@ -2,7 +2,7 @@
 
 💻 Aspiring Front-End Developer | B.Tech Computer Engineering Student
 
-I'm a Computer Engineering student passionate about building modern, responsive, and user-friendly web applications. I'm continuously learning web technologies and improving my development skills by building practical projects.
+I'm a Computer Engineering student passionate about building modern, responsive and user-friendly web applications. I'm continuously learning web technologies and improving my development skills by building practical projects.
 
 📌 Featured Project
 
